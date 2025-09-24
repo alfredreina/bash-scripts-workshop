@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "HOLA MUNDO ESTE ES MI PRIMER SCRIPT DEL AÑO!!"
+echo "Aquest script ha sigut modificat mitjançant un Fork!"
