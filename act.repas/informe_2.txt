@@ -1,0 +1,3 @@
+Total de línies: 1
+Línies amb ERROR: 0
+Línies amb WARNING: 0
